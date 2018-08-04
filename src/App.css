@@ -55,12 +55,15 @@ a#menu svg {
   padding: 15px 24px 30px 10px;
   text-align: left;
   width: 270px;
-  z-index: 10;
+  z-index: 1;
   position: absolute;
   -webkit-transform: translate(-300px, 0);
   transform: translate(-300px, 0);
-  transition: transform 0.3s ease;
-  overflow-y: scroll;
+   overflow-y: scroll;
+   transition: 0.8s;
+   box-shadow: 1px 1px 1px #FD0292;
+ 
+
 }
 
 .list-box.open {
@@ -99,7 +102,8 @@ a#menu svg {
   background-color: #fff;
   border-radius: 24px;
   margin-top: 60px;
-  margin-left: 15px
+  margin-left: 15px;
+  box-shadow: 3px 5px 5px #FD0292;
 
 }
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
