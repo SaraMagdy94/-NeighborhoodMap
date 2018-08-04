@@ -6,11 +6,11 @@
 - run npm install in your terminal
 - run npm start and the app will run locally on port: 3000
 # Resources Helped me in the project
--How to Write a Google Maps React Component (https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component)
--StackOverflow (https://stackoverflow.com/)
--Foursquare (https://developer.foursquare.com)
--Google Fonts (https://fonts.google.com)
--Flower(https://unicode-table.com)
+- [How to Write a Google Maps React Component ](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component)
+- [StackOverflow](https://stackoverflow.com/)
+- [Foursquare ](https://developer.foursquare.com)
+- [Google Fonts](https://fonts.google.com)
+- [Flower](https://unicode-table.com)
 
 project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
